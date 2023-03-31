@@ -64,8 +64,6 @@ void Setup()
         cout << "#";
     cout << endl;
     cout << "Score:" << score << endl;
-        
-
 }
 
  void Input()
@@ -92,7 +90,7 @@ void Setup()
         }
     }
  }
- 
+
 void Logic()
  {
     int prevx = tailx[0];       // previous x coordinate of the tail
