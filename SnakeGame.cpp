@@ -140,8 +140,8 @@ void Logic()
         fruity = rand() % height; 
         nTail++;
     }
+}
 
- }
  int main()
  {
     Setup();
